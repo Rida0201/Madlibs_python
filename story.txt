@@ -1,0 +1,5 @@
+Today, I saw a <adjective> dragon at the <place>.
+It was eating <food> and wearing a <clothing>.
+I said, “<exclamation>!” and ran <adverb> away.
+The dragon <verb_past_tense> and then <verb_past_tense> after me.
+Luckily, I had a <noun> and used it to escape!
